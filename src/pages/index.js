@@ -1,8 +1,18 @@
 import React from "react"
 import "../styles/styles.scss"
+import Scrollbar from "smooth-scrollbar"
+
+import Header from "../components/header"
+import Banner from "../components/banner"
+import About from "../components/about"
+import Footer from "../components/footer"
 
 const IndexPage = () => (
- <p>Home</p>
+  <div>
+    <Header />
+    <Banner />
+    <About />   
+    <Footer />
+  </div>
 )
-
 export default IndexPage
