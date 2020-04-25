@@ -1,6 +1,6 @@
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site for Xebia for my profile.**
+1.  **Create a Gatsby site for Xebia to showcase my profile.**
 
     Use the Gatsby CLI to create a new site, specifying the default starter.
 
