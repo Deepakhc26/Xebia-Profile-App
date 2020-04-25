@@ -39,7 +39,7 @@ module.exports = {
             Authorization: `Bearer 7b2e9a58c045e05de8bb5ce5b8f5d8408a632dee`,
           },
         },
-      }
+      },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
